@@ -46,8 +46,8 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -60,6 +60,14 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Powershell" />
+      <br>Powershell
     </td>
   </tr>
   <tr>
@@ -98,13 +106,20 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
   </tr>
    <tr>
     <td align="center" width="96">
-        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual studio" />
+      <br>Visual Studio
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual studio code" />
+      <br>VS code
     </td>
   </tr>
  <tr>
@@ -116,8 +131,8 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/mecycle/github-readme-stats"><img alt="Yuxin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mecycle&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/mecycle/github-readme-stats"><img alt="Yuxin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecycle&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -125,7 +140,7 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![mecycle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mecycle&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/mecycle/github-readme-activity-graph)
 
 </details>
 
@@ -133,58 +148,12 @@ welcome to my GitHub Page. I am Yuxin Zhang and now a full stack developer. Adep
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=mecycle&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mecycle&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
